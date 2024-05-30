@@ -1,0 +1,13 @@
+# local package
+-e .
+
+# external requirements
+scikit-learn
+transformers
+mlflow
+krippendorff
+datasets
+tensorflow-hub
+torch
+accelerate
+hydra-core
